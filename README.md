@@ -1,19 +1,16 @@
 # 🎬📽🎞 Movie Challenge app 
 
-Desafio desenvolvido em flutter, usando clean architecture, com base em dados da API do The Movie Database (TMDB).
+Challenge developed in flutter, using clean architecture, based on data from The Movie Database (TMDB) API.
 
 
-## 📱 Informações sobre o projeto 
+## 📱 Project information
 
-📍 Este projeto utiliza a API TMDB para exibir uma tela com detalhes de um filme, com base em seu id. </br>
-📍 Os detalhes são: título, número de likes e popularidade.
+📍 This project uses the TMDB API to display a screen with details of a movie, based on its id.
+📍 Details are: title, number of likes and popularity.
 
-📍 Com base nesse id, é apresentada uma lista de filmes similares, contendo informações sobre o título, ano de lançamento e gênero.
+📍 Based on this id, a list of similar movies is presented, containing information about the title, year of release and genre.
 
+💡 Note. I will continue to complement this project, as a source of studies. Unfortunately, there was no time to properly configure the return of the genre, but I will continue to work on it and update the functionality soon.
 
-💡 Obs. Continuarei complementando este projeto, como fonte de estudos. 
-Infelizmente não houve tempo ábil para configurar corretamente o retorno do gênero, mas continuarei trabalhando nisso e atualizarei a funcionalidade em breve.
-
-
-♥ Idependente do resultado do processo, agradeço pela oportunidade do desafio. 
+♥ Regardless of the outcome of the process, I am grateful for the opportunity of the challenge.
 
