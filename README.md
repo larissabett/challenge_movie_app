@@ -5,7 +5,7 @@ Challenge developed in flutter, using clean architecture, based on data from The
 
 ## 📱 Project information
 
-📍 This project uses the TMDB API to display a screen with details of a movie, based on its id.
+📍 This project uses the TMDB API to display a screen with details of a movie, based on its id.</br>
 📍 Details are: title, number of likes and popularity.
 
 📍 Based on this id, a list of similar movies is presented, containing information about the title, year of release and genre.
